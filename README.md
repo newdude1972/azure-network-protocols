@@ -1,5 +1,4 @@
-# azure-network-protocols
-<p align="center">
+Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines<p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
